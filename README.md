@@ -11,3 +11,4 @@ By [UBI-ARC](https://github.com/UBI-Arc).
 — [ChrSzegedy](https://x.com/ChrSzegedy)
 — [thegregyang](https://github.com/thegregyang)
 — [Herbert-Gao](https://github.com/Herbert-Gao)
+— [vahidk](https://github.com/vahidk)
