@@ -13,3 +13,4 @@ By [UBI-ARC](https://github.com/UBI-Arc).
 — [Herbert-Gao](https://github.com/Herbert-Gao)
 — [vahidk](https://github.com/vahidk)
 — [aeyakovenko](https://github.com/aeyakovenko)
+— ARC-AGI-1 benchmark model
