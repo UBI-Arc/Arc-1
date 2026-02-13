@@ -8,3 +8,4 @@ By [UBI-ARC](https://github.com/UBI-Arc).
 — [jimmylba](https://github.com/jimmylba)
 — [ibab](https://github.com/ibab)
 — [kykosic](https://github.com/kykosic)
+— [ChrSzegedy](https://x.com/ChrSzegedy)
